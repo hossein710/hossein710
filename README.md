@@ -10,7 +10,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![](https://komarev.com/ghpvc/?username=hossein710&color=blueviolet)
+
 
 🎓 Computer Engineering student at **University of Tehran**
 
