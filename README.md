@@ -1,16 +1,76 @@
-## Hi there 👋
+# Hi there! 👋 I'm Hossein Moradi
 
-<!--
-**hossein710/hossein710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+🎓 Computer Engineering student at **University of Tehran**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Software Developer @ @Uninversity-of-Tehran-ESLab, currently working on a **Tennis Robot Software** project.
+
+💻 Passionate about solving Engineering (Specially Computer) problems through software and hardware.
+
+🌱 Currently improving my knowledge in:
+
+- Modern C++
+- Python for AI & Data Science
+- Embedded Systems
+- Robotics
+- Machine Learning
+- Computer Networks
+- Cyber Security
+
+---
+
+## 🛠 Languages & Technologies
+
+### Comfortable With
+
+- C
+- C++
+- Python
+- NumPy
+- Pandas
+- Git
+- Linux
+
+### Currently Learning
+
+- Dart
+- Flutter
+- Java
+- JavaScript
+
+---
+
+## 📚 Interests
+
+- 🤖 Robotics
+- 🖥 Computer Architecture
+- ⚙️ Embedded Systems
+- 🔬 Algorithms & Data Structures
+- 🌐 Computer Networks
+- 🔒 Cyber Security
+- 🎯 Control Systems
+- 🧠 Artificial Intelligence
+- 📈 Machine Learning
+- 💡 Hardware Design
+
+---
+
+## 🎯 Current Stack
+
+- Build high-quality Tennis-robot software
+- Improve Modern C++ expertise
+- Learn advanced Embedded Systems
+- Contribute to Open Source
+- Explore ML & AI applications in Robotics
+
+---
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: https://www.linkedin.com/in/hossein-moradi-78268527a/
+
+---
+
+> "Engineering is where curiosity meets persistence."
