@@ -2,6 +2,16 @@
 
 ## 🚀 About Me
 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet)
+
 🎓 Computer Engineering student at **University of Tehran**
 
 💼 Software Developer @ @Uninversity-of-Tehran-ESLab, currently working on a **Tennis Robot Software** project.
@@ -65,12 +75,3 @@
 - Explore ML & AI applications in Robotics
 
 ---
-
-## 📫 Connect with Me
-
-- GitHub: https://github.com/hossein710
-- LinkedIn: https://www.linkedin.com/in/hossein-moradi-78268527a/
-
----
-
-> "Engineering is where curiosity meets persistence."
