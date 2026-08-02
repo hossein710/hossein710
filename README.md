@@ -14,7 +14,7 @@
 
 🎓 Computer Engineering student at **University of Tehran**
 
-💼 Software Developer @ @Uninversity-of-Tehran-ESLab, currently working on a **Tennis Robot Software** project.
+💼 Software Developer at **[ESLAB](https://github.com/Uninversity-of-Tehran-ESLab)**, currently working on a **Tennis Robot Software** project.
 
 💻 Passionate about solving Engineering (Specially Computer) problems through software and hardware.
 
